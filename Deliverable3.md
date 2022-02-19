@@ -1,4 +1,4 @@
-#PyBer Analysis
+# PyBer Analysis
 
 ## Overview of the Analysis
 Using my Python skills and knowledge of Pandas we created a summary DataFrame of the ride-sharing data by city type. Then using my Python skills and knowledge of Pandas we created a summary DataFrame of the ride-sharing data by city type. Lastly, I created a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer. The metrics and visualization created was then analyzed to provide recommendations to the CEO of Pyber to address any disparities among the city types.
